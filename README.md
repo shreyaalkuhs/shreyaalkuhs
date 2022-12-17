@@ -2,5 +2,4 @@
 - 🌱 I’m currently learning machine learning techniques in data analysis, as well as exploring applications of geometry in complexity theory and ML.
 - 💞️ I’m looking to collaborate on openAI machine learning projects.
 - 📫 You can reach me at my linkedin profile: https://www.linkedin.com/in/shreyashukla-iitk/.
-- Here is the the link to my published papers: https://inspirehep.net/authors/1848405 
-- 
+- Here is the the link to my published papers: [InspireHEP](https://inspirehep.net/authors/1848405)
